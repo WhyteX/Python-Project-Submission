@@ -1,0 +1,5 @@
+pycountry == 24.6.1
+ttkbootstrap == 1.10.1
+pandas == 2.2.2
+openpyxl == 3.1.2
+requests == 2.32.2

@@ -1,0 +1,15 @@
+Movie Picker Project
+The Movie Picker Project helps you pick movies based on popularity, country, and genres. It uses online data, so make sure you have a stable internet connection.
+
+Features
+1.Internet-Based Automation: Requires a stable internet connection.
+2.Tkinter Interface: Easy-to-use interface for selecting movies.
+3.Movie Selection: Choose movies by popularity, country, and genres, with additional filtering options.
+4.Movie Details Display: Shows name, release year, description, and rating when the "Choose Movie" button is pressed.
+5.Data Storage: Option to store details of watched movies.
+
+
+Installation and Usage
+1. Clone the repository from https://github.com/WhyteX/Python-Project-Submission.git
+2. Install the required dependencies in the requirements.txt
+3. Run the application CapstoneProject.py
